@@ -11,6 +11,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
+Add you csv file to the data folder.
 Change variable `filename` in `table_maker.py` and run
 ```
 python3 table_maker.py
