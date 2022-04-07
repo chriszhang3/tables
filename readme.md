@@ -11,7 +11,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Usage
-Change variable `filename` in table_maker.py and run
+Change variable `filename` in `table_maker.py` and run
 ```
 python3 table_maker.py
 ```
