@@ -2,7 +2,7 @@
 release: v0.0.1
 
 Convert csv files to Microsoft Word tables. The motivation is to help automate
-formatting tables for academic papers.
+formatting tables for academic papers. Work in progress.
 
 ## Dependencies
 Install dependencies using

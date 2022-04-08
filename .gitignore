@@ -1,8 +1,5 @@
 # Virtual environment
 env
 
-# Jupyter notebooks are difficult to merge with github
-*.ipynb
-
 # Private data
 private
